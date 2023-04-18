@@ -1,0 +1,17 @@
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\bin\Debug\net6.0-windows\swift-compiler.exe
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\bin\Debug\net6.0-windows\swift-compiler.deps.json
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\bin\Debug\net6.0-windows\swift-compiler.runtimeconfig.json
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\bin\Debug\net6.0-windows\swift-compiler.dll
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\bin\Debug\net6.0-windows\swift-compiler.pdb
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\obj\Debug\net6.0-windows\swift-compiler.csproj.AssemblyReference.cache
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\obj\Debug\net6.0-windows\swift_compiler.Windows.Home.Home.resources
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\obj\Debug\net6.0-windows\swift-compiler.csproj.GenerateResource.cache
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\obj\Debug\net6.0-windows\swift-compiler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\obj\Debug\net6.0-windows\swift-compiler.AssemblyInfoInputs.cache
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\obj\Debug\net6.0-windows\swift-compiler.AssemblyInfo.cs
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\obj\Debug\net6.0-windows\swift-compiler.csproj.CoreCompileInputs.cache
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\obj\Debug\net6.0-windows\swift-compiler.dll
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\obj\Debug\net6.0-windows\refint\swift-compiler.dll
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\obj\Debug\net6.0-windows\swift-compiler.pdb
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\obj\Debug\net6.0-windows\swift-compiler.genruntimeconfig.cache
+D:\Escuela\Semestre 8\Lenguaje y automatas l\Compilador\code\swift-compiler\swift-compiler\obj\Debug\net6.0-windows\ref\swift-compiler.dll
